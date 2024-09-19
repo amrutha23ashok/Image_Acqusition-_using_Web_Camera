@@ -30,8 +30,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 ```
- Developed By:Archana k
- Register No:212222240011
+ Developed By:AMRUTHA SA
+ Register No:212222110004
 ```
 ## i) Write the frame as JPG file
 ```
